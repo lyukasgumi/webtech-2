@@ -1,0 +1,25 @@
+{
+  "name": "bead_webtech",
+  "version": "1.0.0",
+  "description": "webtech2_KLJDUJ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  
+  "keywords": [
+    "bead_webtech"
+  ],
+  "author": "KLJDUJ",
+  "license": "ISC",
+  "homepage": "/README.md",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "moment": "^2.24.0",
+    "mongodb": "^3.2.3",
+    "uuid": "^3.3.2"
+  }
+}
